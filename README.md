@@ -1,1 +1,0 @@
-# Image-Resizing-Using-S3-SNS-Lambda
