@@ -45,11 +45,15 @@ This project focuses on building an automated system for image processing and ma
 
 <img width="1792" alt="3" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/8767ece3-0892-41ba-8563-9e07c72781bf">
 
+
 - Select Standard give some unique name and then scroll down and create Topic.(Keep all others things default)
 
 
 <img width="1792" alt="4" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/c6442af8-8385-4578-b04e-d5b5d2cd9206">
 
+
+- After creating topic then go to subscription and create it.
+  
 
 <img width="831" alt="5" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/f6741cd0-10e9-4638-b3a2-1ec6142d7352">
 
@@ -71,8 +75,6 @@ This project focuses on building an automated system for image processing and ma
 
 <img width="472" alt="9" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/eba7acf1-c7fb-4158-b987-f5b556c14ac9">
 
-
-![i3](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/00b10697-1827-4304-b130-a4856e780570)
 
 
 
