@@ -34,7 +34,7 @@ This project focuses on building an automated system for image processing and ma
 <img width="1791" alt="2" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/d2d1ad44-6356-44c3-8ae6-fcc401361338">
 
 
-3. As you can see above , I created two buckets one is Source bucket and another one is Destination bucket.
+3. As you can see above , I have created two buckets one is Source bucket and another one is Destination bucket.
 
 ### Step 2 :
 ### Creating the SNS Notification :
@@ -84,57 +84,57 @@ This project focuses on building an automated system for image processing and ma
 1. Navigate to the Lambda Console.
 2. Follow the Outlined steps below.
 
-![i14](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/c90eaf3b-2a38-46dc-80f2-a097febf0e95)
+<img width="831" alt="10" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/fd1f9db1-31fc-402e-b4da-760881f3c769">
 
 
 
-![i15](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/1eeca065-8dbd-41d4-953d-59cec42c87bc)
+<img width="829" alt="11" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/4e5544a2-118b-4973-a31d-c7d20b304128">
 
 3. Now replace the default code with the image-resizing-s3.py and deploy the changes , Don't test the code now we have to do some more actions before testing.
 4. After that , We have to give some permission for our Lambda Function to do our process (resizing) , For that navigate to the IAM Console and follow the below steps.
 
 
-![i16](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/c49c69dc-7e60-4fd1-835c-4b1581e3122e)
+<img width="830" alt="12" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/8a7b6586-5154-429b-802a-0e354b3eb563">
 
-![i17](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/c983d5e0-e443-42c1-ab03-5bdea50434df)
-
-
-![i18](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/2eb8707d-bb9c-40e6-a4cb-3fb9688fe4b2)
+<img width="829" alt="13" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/62162585-0b0a-48bf-8881-c5fce93b263a">
 
 
-![i19](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/e7ab7943-e876-402c-b074-ad3b4873484e)
+<img width="830" alt="14" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/fc524c4c-6cf8-4f23-821a-698527c62c12">
 
 
-![i20](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/70bc666a-cda0-4374-b01f-1c91e5082770)
+<img width="833" alt="15" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/a7838e65-4a6c-44fb-92dc-f8e07091628b">
 
 
-![i21](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/d0f40dad-c535-45c0-a19c-402aba93d555)
+<img width="832" alt="16" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/b847c9e1-c973-4c6b-ade9-8ca64212f954">
 
 
-![i22](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/11be7629-4cf2-4318-adbf-d01873a4655c)
+<img width="831" alt="17" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/d9fada45-7819-4c3c-abd5-270b997729bb">
+
+
+<img width="836" alt="18" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/eceb7b6f-8f20-4ac6-828e-19a5779676ed">
 
 5. Now navigate to the Lambda Console and follow the steps below.
 
 
-![i23](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/17797c6b-109c-455d-ae15-d412b83182fe)
+<img width="830" alt="19" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/f5964f96-4976-48c3-a968-59e01d438f71">
 
 
-![i24](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/fd489e94-5129-4bee-a682-ad24a2685233)
+<img width="834" alt="20" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/21be1aa0-f862-4e5a-99c8-e49fdc79c87f">
 
 
-![i25](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/69779aa0-34d3-4502-9f9e-4ac15331db99)
+<img width="829" alt="21" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/79e9e252-436d-49c0-9e9f-0c4c35d553d3">
 
 
 6. Now we have to trigger the function.
 
 
-![i26](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/166aadb1-4d3a-40d8-a70e-681ea507e1d1)
+<img width="833" alt="22" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/b6761d0d-8b2e-4b96-8150-90fc142ee9d8">
 
 
-![i27](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/b8dcb311-1914-47bc-96a7-5df62a283954)
+<img width="832" alt="23" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/54562e6e-c453-4a1f-a948-fa3ec318df26">
 
 
-![i28](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/76164aba-a478-4590-a7e4-966d3f30078f)
+<img width="832" alt="24" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/89ee0f93-0602-4bd1-a1aa-578dbbb3dda3">
 
 
 7. Now we have to go to code section , and scroll down to  layers.<br>
@@ -144,10 +144,10 @@ This project focuses on building an automated system for image processing and ma
 11. Follow the outlined Steps below.
 
 
-![i51](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/a4500c08-8a18-4a26-844a-5ad7712ba310)
+<img width="830" alt="25" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/c40cfad4-2ded-4819-a209-edd99532e889">
 
+<img width="831" alt="26" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/15aa09b1-8264-4c08-86e9-b40a9233c2bc">
 
-![i52](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/d20cb878-d8a9-4757-8f42-7596f5448f0f)
 12.You can copy the arn from below.
 
 ```
@@ -156,15 +156,15 @@ arn:aws:lambda:ap-south-1:770693421928:layer:Klayers-p39-pillow:1
 
 13. After done all the actions above , now we can test our code.
 
-![i49](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/fa884cf6-e858-44c4-ac03-fa4b4c0de763)
+<img width="830" alt="27" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/a8ba51aa-73ca-40c4-a035-63ede3dffcc7">
 
 
-![i50](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/9f13561b-3839-495e-bf69-9ac34605f3c9)
+<img width="830" alt="28" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/b9f7438d-3242-4984-995e-282a9c83c251">
 
 14. It will show some results like below , It runs successfully but return some error because we still not upload the images in S3 yet.
 
 
-![i50 1](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/d4d73c43-32aa-4ada-bed0-3aa30dd053e4)
+<img width="833" alt="29" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/61224fd9-8a6d-4a16-a183-fb7bdea3b058">
 
 
 ### Step 4 :
@@ -174,26 +174,26 @@ arn:aws:lambda:ap-south-1:770693421928:layer:Klayers-p39-pillow:1
 2. Upload Some images in  Source Bucket.
 
 
-![i29](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/43f39f6f-dc95-4df6-a7b2-7b4f7d631642)
+<img width="830" alt="30" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/89b351ad-74c7-4eb1-9526-cba7ac56170d">
 
 
 
-![i30](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/4deb12e5-3597-4ebc-bf28-3b235b058969)
+<img width="829" alt="31" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/61f63edd-a519-4e74-bb2a-66004abdd6c4">
 
 
-![i31](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/bc0585bd-0e6d-47e3-891b-e5dd3be0da2b)
+<img width="831" alt="32" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/95f173fe-75cb-425f-ae08-884a53b771da">
 
 
-![i32](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/c9eb1a36-198e-4b90-be94-0c95c9d877c6)
+<img width="830" alt="33" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/ac345aeb-45b0-47e0-8448-cc6993589cb6">
 
 
-![i33](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/4e827762-b1f7-49d0-90ce-370ddaac014f)
+<img width="832" alt="34" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/4fbffc99-cc99-4f9b-815d-f68a03a035ac">
 
 
-![i34](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/b5933c6c-91d8-4eac-8940-389dbd64d101)
+<img width="832" alt="35" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/b8e3d64d-c97b-4b86-bb94-88f5daae9f7f">
 
 
-![i35](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/d7bdb74a-9d8f-4d02-b9ad-c1c5e463e75a)
+<img width="539" alt="36" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/af8e54cd-f28c-487d-bf92-f1364dd0b578">
 
 ### It Successfully resized the Image and sends me the Notification.
 
