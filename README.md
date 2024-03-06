@@ -26,15 +26,14 @@ This project focuses on building an automated system for image processing and ma
 
 <img width="1792" alt="1" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/c8d11929-7406-415d-b6da-ad2509d97368">
 
-- Create two buckets with unique name and keep all the other setting while creating bucket as default.
+
+- Create two buckets (1-Source and 2- Destination Bucket) with unique name and keep all the other setting while creating bucket as default.(I have created 2 buckets)
+
   
 <img width="1791" alt="2" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/d2d1ad44-6356-44c3-8ae6-fcc401361338">
 
-3. Create the destination bucket using the same steps and name it with a unique name.
 
-![i4](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/2b98cf18-6e99-4154-81d9-c3ca5e864938)
-
-4. As you can see above , I created two buckets one is Source bucket and another one is Destination bucket.
+3. As you can see above , I created two buckets one is Source bucket and another one is Destination bucket.
 
 ### Step 2 :
 ### Creating the SNS Notification :
