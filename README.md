@@ -26,7 +26,8 @@ This project focuses on building an automated system for image processing and ma
 
 <img width="1792" alt="1" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/c8d11929-7406-415d-b6da-ad2509d97368">
 
-
+- Create two buckets with unique name and keep all the other setting while creating bucket as default.
+  
 <img width="1791" alt="2" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/d2d1ad44-6356-44c3-8ae6-fcc401361338">
 
 3. Create the destination bucket using the same steps and name it with a unique name.
