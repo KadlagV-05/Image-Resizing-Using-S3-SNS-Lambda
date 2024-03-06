@@ -27,7 +27,8 @@ This project focuses on building an automated system for image processing and ma
 <img width="1792" alt="1" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/c8d11929-7406-415d-b6da-ad2509d97368">
 
 
-- Create two buckets (1-Source and 2- Destination Bucket) with unique name and keep all the other setting while creating bucket as default.(I have created 2 buckets)
+
+- Create two buckets (1-Source and 2- Destination Bucket) with unique name and keep all the other setting to default while creating bucket.
 
   
 <img width="1791" alt="2" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/d2d1ad44-6356-44c3-8ae6-fcc401361338">
@@ -42,32 +43,33 @@ This project focuses on building an automated system for image processing and ma
 2. Follow the Outlined Steps below.
 
 
-![i5](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/50ae0833-cc4a-4cdd-9d03-2554cf981104)
+<img width="1792" alt="3" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/8767ece3-0892-41ba-8563-9e07c72781bf">
+
+- Select Standard give some unique name and then scroll down and create Topic.(Keep all others things default)
 
 
-![i6](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/bd101082-a68f-4f12-8131-412766a0835a)
+<img width="1792" alt="4" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/c6442af8-8385-4578-b04e-d5b5d2cd9206">
+
+
+<img width="831" alt="5" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/f6741cd0-10e9-4638-b3a2-1ec6142d7352">
+
+
+<img width="830" alt="6" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/f25eaad6-5828-4605-8b50-640c488f7384">
+
+
+<img width="832" alt="7" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/99141dcc-0bb4-41c7-977c-395589d95b2f">
 
 
 
-![i7](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/12321adb-93ea-4715-9416-9ad0c3dd7ca3)
-
-
-![i8](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/50d699f3-6501-418e-8303-9f4f113325ef)
-
-
-![i9](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/96b45ba6-822d-4961-b5d1-e70fab104ac6)
-
-
-![i10](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/9da24906-1523-4158-8c9c-0a3c23902dbc)
 3. Scroll down and Click "Create subscription" <br>
 4. After this , you will receive some mail for Subscription Confirmation and you have to confirm that.<br>
 5. You can use any other protocols also like SQS, HTTP, SMS etc .,<br>
 
 
-![i11](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/39c7c7d2-e9c0-41e7-b3e9-54802bf871d5)
+<img width="471" alt="8" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/74a97056-134e-4802-b396-713a846172cc">
 
 
-![i12](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/3bb970d6-b6de-4d45-a7d7-8738987d32b7)
+<img width="472" alt="9" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/eba7acf1-c7fb-4158-b987-f5b556c14ac9">
 
 
 ![i3](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/00b10697-1827-4304-b130-a4856e780570)
