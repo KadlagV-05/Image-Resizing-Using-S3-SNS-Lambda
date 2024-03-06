@@ -24,7 +24,7 @@ This project focuses on building an automated system for image processing and ma
 2. Follow the Outlined Steps below.
 
 
-![i1](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/fcf47c3c-3b40-4952-a0b5-5f53fe3d6444)
+<img width="1792" alt="1" src="https://github.com/KadlagV-05/Image-Resizing-Using-S3-SNS-Lambda/assets/118795133/c8d11929-7406-415d-b6da-ad2509d97368">
 
 
 ![i2](https://github.com/itz-mathesh/image-resizing-using-s3-lambda-and-sns/assets/144098846/038c999c-e926-4613-9a23-2d5593c8fd95)
